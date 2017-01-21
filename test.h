@@ -4,3 +4,7 @@ int test_func(){
 int test_func2(){
     return 1;
 }
+
+int test_fumc2(){
+    return 2;
+}
